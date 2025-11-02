@@ -1,0 +1,51 @@
+User,Date Created,Number of Likes,Source of Tweet,Tweet,clean_text,textblob_score,textblob_label,vader_score,vader_label,match
+user_1,2025-06-30 04:07:27.826224,18,Twitter for Android,Too many injuries this World Cup season.,too many injuries this world cup season,0.5,Positive,0.0,Neutral,False
+user_2,2025-06-25 04:07:27.826603,186,Twitter for iPhone,Atmosphere in Qatar is electric. #worldcup,atmosphere in qatar is electric worldcup,0.0,Neutral,0.0,Neutral,True
+user_3,2025-06-22 04:07:27.826609,78,Twitter Web App,Another penalty shootout drama in the World Cup!,another penalty shootout drama in the world cup,0.0,Neutral,-0.4588,Negative,False
+user_4,2025-06-20 04:07:27.826611,15,Twitter for Android,Fantastic save by the keeper! #worldcup,fantastic save by the keeper worldcup,0.4,Positive,0.7783,Positive,True
+user_5,2025-06-15 04:07:27.826612,187,Twitter Web App,So many surprises in this World Cup season.,so many surprises in this world cup season,0.5,Positive,0.2911,Positive,True
+user_6,2025-06-09 04:07:27.826614,473,Twitter for iPhone,Great vibes around the stadium during the World Cup.,great vibes around the stadium during the world cup,0.8,Positive,0.6249,Positive,True
+user_7,2025-06-21 04:07:27.826616,446,Twitter for Android,Another penalty shootout drama in the World Cup!,another penalty shootout drama in the world cup,0.0,Neutral,-0.4588,Negative,False
+user_8,2025-07-01 04:07:27.826625,102,Twitter Web App,Disappointed with my team's performance. #worldcup,disappointed with my teams performance worldcup,-0.75,Negative,-0.4767,Negative,True
+user_9,2025-07-03 04:07:27.826629,168,Twitter for Android,Disappointed with my team's performance. #worldcup,disappointed with my teams performance worldcup,-0.75,Negative,-0.4767,Negative,True
+user_10,2025-06-19 04:07:27.826631,142,Twitter for Android,VAR decisions ruining the World Cup fun.,var decisions ruining the world cup fun,0.3,Positive,0.3182,Positive,True
+user_11,2025-06-07 04:07:27.826633,31,Twitter Web App,Is this the best World Cup ever?,is this the best world cup ever,1.0,Positive,0.6369,Positive,True
+user_12,2025-06-22 04:07:27.826635,489,Twitter for iPhone,So many surprises in this World Cup season.,so many surprises in this world cup season,0.5,Positive,0.2911,Positive,True
+user_13,2025-07-04 04:07:27.826637,482,Twitter Web App,Fantastic save by the keeper! #worldcup,fantastic save by the keeper worldcup,0.4,Positive,0.7783,Positive,True
+user_14,2025-07-03 04:07:27.826638,102,Twitter for iPhone,That was a world-class goal! #worldcup,that was a worldclass goal worldcup,0.0,Neutral,0.0,Neutral,True
+user_15,2025-06-06 04:07:27.826640,59,Twitter for iPhone,VAR decisions ruining the World Cup fun.,var decisions ruining the world cup fun,0.3,Positive,0.3182,Positive,True
+user_16,2025-06-21 04:07:27.826641,122,Twitter Web App,Who will win the Golden Boot this World Cup?,who will win the golden boot this world cup,0.55,Positive,0.5859,Positive,True
+user_17,2025-07-05 04:07:27.826643,85,Twitter for iPhone,Great vibes around the stadium during the World Cup.,great vibes around the stadium during the world cup,0.8,Positive,0.6249,Positive,True
+user_18,2025-06-25 04:07:27.826644,43,Twitter for Android,Fantastic save by the keeper! #worldcup,fantastic save by the keeper worldcup,0.4,Positive,0.7783,Positive,True
+user_19,2025-06-22 04:07:27.826646,392,Twitter for Android,Another penalty shootout drama in the World Cup!,another penalty shootout drama in the world cup,0.0,Neutral,-0.4588,Negative,False
+user_20,2025-07-01 04:07:27.826647,191,Twitter for iPhone,Tickets for the World Cup are too expensive.,tickets for the world cup are too expensive,-0.5,Negative,0.0,Neutral,False
+user_21,2025-06-07 04:07:27.826649,229,Twitter Web App,Fantastic save by the keeper! #worldcup,fantastic save by the keeper worldcup,0.4,Positive,0.7783,Positive,True
+user_22,2025-06-15 04:07:27.826650,340,Twitter Web App,Great vibes around the stadium during the World Cup.,great vibes around the stadium during the world cup,0.8,Positive,0.6249,Positive,True
+user_23,2025-06-28 04:07:27.826652,250,Twitter for Android,Another penalty shootout drama in the World Cup!,another penalty shootout drama in the world cup,0.0,Neutral,-0.4588,Negative,False
+user_24,2025-07-04 04:07:27.826653,379,Twitter Web App,Can't believe that goal yesterday. #worldcup,cant believe that goal yesterday worldcup,0.0,Neutral,0.0,Neutral,True
+user_25,2025-06-09 04:07:27.826655,125,Twitter for Android,Atmosphere in Qatar is electric. #worldcup,atmosphere in qatar is electric worldcup,0.0,Neutral,0.0,Neutral,True
+user_26,2025-06-14 04:07:27.826657,460,Twitter Web App,Atmosphere in Qatar is electric. #worldcup,atmosphere in qatar is electric worldcup,0.0,Neutral,0.0,Neutral,True
+user_27,2025-06-29 04:07:27.826659,307,Twitter for iPhone,Dreaming of attending a World Cup final someday.,dreaming of attending a world cup final someday,0.0,Neutral,0.0,Neutral,True
+user_28,2025-06-07 04:07:27.826660,171,Twitter for Android,Who will win the Golden Boot this World Cup?,who will win the golden boot this world cup,0.55,Positive,0.5859,Positive,True
+user_29,2025-06-17 04:07:27.826662,191,Twitter for iPhone,Can't believe that goal yesterday. #worldcup,cant believe that goal yesterday worldcup,0.0,Neutral,0.0,Neutral,True
+user_30,2025-06-15 04:07:27.826663,402,Twitter for iPhone,That was a world-class goal! #worldcup,that was a worldclass goal worldcup,0.0,Neutral,0.0,Neutral,True
+user_31,2025-06-10 04:07:27.826665,493,Twitter for Android,Great vibes around the stadium during the World Cup.,great vibes around the stadium during the world cup,0.8,Positive,0.6249,Positive,True
+user_32,2025-06-15 04:07:27.826666,14,Twitter Web App,Incredible crowd support for the teams. #worldcup,incredible crowd support for the teams worldcup,0.9,Positive,0.4549,Positive,True
+user_33,2025-07-04 04:07:27.826668,80,Twitter Web App,Another penalty shootout drama in the World Cup!,another penalty shootout drama in the world cup,0.0,Neutral,-0.4588,Negative,False
+user_34,2025-07-02 04:07:27.826670,243,Twitter for iPhone,Dreaming of attending a World Cup final someday.,dreaming of attending a world cup final someday,0.0,Neutral,0.0,Neutral,True
+user_35,2025-07-06 04:07:27.826671,169,Twitter Web App,Tickets for the World Cup are too expensive.,tickets for the world cup are too expensive,-0.5,Negative,0.0,Neutral,False
+user_36,2025-06-21 04:07:27.826673,257,Twitter Web App,So many surprises in this World Cup season.,so many surprises in this world cup season,0.5,Positive,0.2911,Positive,True
+user_37,2025-06-29 04:07:27.826674,415,Twitter for Android,Disappointed with my team's performance. #worldcup,disappointed with my teams performance worldcup,-0.75,Negative,-0.4767,Negative,True
+user_38,2025-07-02 04:07:27.826676,135,Twitter for iPhone,That was a world-class goal! #worldcup,that was a worldclass goal worldcup,0.0,Neutral,0.0,Neutral,True
+user_39,2025-07-04 04:07:27.826677,139,Twitter for Android,The World Cup anthem is stuck in my head!,the world cup anthem is stuck in my head,0.0,Neutral,-0.25,Negative,False
+user_40,2025-06-16 04:07:27.826679,205,Twitter Web App,Incredible crowd support for the teams. #worldcup,incredible crowd support for the teams worldcup,0.9,Positive,0.4549,Positive,True
+user_41,2025-07-05 04:07:27.826680,100,Twitter for iPhone,Dreaming of attending a World Cup final someday.,dreaming of attending a world cup final someday,0.0,Neutral,0.0,Neutral,True
+user_42,2025-07-04 04:07:27.826682,249,Twitter for Android,Too many injuries this World Cup season.,too many injuries this world cup season,0.5,Positive,0.0,Neutral,False
+user_43,2025-07-04 04:07:27.826684,488,Twitter for iPhone,VAR decisions ruining the World Cup fun.,var decisions ruining the world cup fun,0.3,Positive,0.3182,Positive,True
+user_44,2025-06-23 04:07:27.826685,358,Twitter for Android,Too many injuries this World Cup season.,too many injuries this world cup season,0.5,Positive,0.0,Neutral,False
+user_45,2025-06-18 04:07:27.826687,156,Twitter for iPhone,Disappointed with my team's performance. #worldcup,disappointed with my teams performance worldcup,-0.75,Negative,-0.4767,Negative,True
+user_46,2025-06-25 04:07:27.826688,24,Twitter for Android,Too many injuries this World Cup season.,too many injuries this world cup season,0.5,Positive,0.0,Neutral,False
+user_47,2025-06-27 04:07:27.826689,253,Twitter for iPhone,Dreaming of attending a World Cup final someday.,dreaming of attending a world cup final someday,0.0,Neutral,0.0,Neutral,True
+user_48,2025-06-29 04:07:27.826691,432,Twitter for Android,Referees were terrible in that match. #worldcup,referees were terrible in that match worldcup,-1.0,Negative,-0.4767,Negative,True
+user_49,2025-06-10 04:07:27.826692,293,Twitter Web App,That was a world-class goal! #worldcup,that was a worldclass goal worldcup,0.0,Neutral,0.0,Neutral,True
+user_50,2025-07-01 04:07:27.826694,127,Twitter for Android,World Cup fever is amazing!,world cup fever is amazing,0.6000000000000001,Positive,0.5859,Positive,True
